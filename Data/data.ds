@@ -1,0 +1,8 @@
+
+
+Object :: struct {
+    position : vec3;
+    rotation : vec3;
+    scale : vec3;
+    
+}
